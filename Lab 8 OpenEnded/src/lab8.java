@@ -4,7 +4,7 @@ import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.ReentrantLock;
 import java.io.FileWriter;
 import java.io.IOException;
-
+// I HAVE ADD THIS SENTENCE FOR PULL AND MERGE
 //I HAVE ADDED THIS COMMENT TO TEST GIT
 class LaundrySystem {
     private final Queue<String> laundryQueue = new LinkedList<>();
